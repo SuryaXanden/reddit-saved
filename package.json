@@ -1,0 +1,16 @@
+{
+  "name": "reddit-saved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "lodash": "^4.17.21"
+  }
+}
